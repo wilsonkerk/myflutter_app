@@ -8,7 +8,7 @@
 
       class DataImageTableDemo extends StatefulWidget {
         DataImageTableDemo() : super();
-        final String title = "Carsome Flutter Demo";
+        final String title = "Flutter Demo";
 
         @override
         DataTableDemoState createState() => DataTableDemoState();
