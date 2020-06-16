@@ -23,7 +23,7 @@
         bool selectedBtn1;
         @override
         void initState() {
-          selectedBtn1 = false;
+          selectedBtn1 = true;
           this.getJsonData(selectedBtn1 == true ? url : url2);
           super.initState();
         }
